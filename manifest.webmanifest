@@ -1,0 +1,20 @@
+{
+  "name": "PhishBowl — Phishing Awareness Training",
+  "short_name": "PhishBowl",
+  "description": "Interactive phishing awareness training for school board staff. Recognize modern email, voice, SMS, QR, and identity attacks with the THINK Framework.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fafaf9",
+  "theme_color": "#0066cc",
+  "categories": ["education", "security", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

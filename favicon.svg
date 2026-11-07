@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Shield background -->
+  <path d="M32 4 L56 14 L56 34 C56 48 44 58 32 62 C20 58 8 48 8 34 L8 14 Z" fill="#003366"/>
+  <!-- Shield highlight -->
+  <path d="M32 10 L50 18 L50 34 C50 45 41 53 32 57 C23 53 14 45 14 34 L14 18 Z" fill="#0057a8"/>
+  <!-- Hook/phishing hook icon -->
+  <path d="M38 22 C38 18.7 35.3 16 32 16 C28.7 16 26 18.7 26 22 C26 25.3 28.7 28 32 28 L32 38" stroke="white" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M32 38 C32 38 28 40 28 43.5 C28 45.4 29.8 47 32 47 C34.2 47 36 45.4 36 43.5" stroke="white" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Exclamation dot -->
+  <circle cx="32" cy="22" r="3" fill="white"/>
+</svg>
